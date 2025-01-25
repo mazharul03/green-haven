@@ -1,6 +1,6 @@
 
 
-const Roots = () => {
+const Root = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const Roots = () => {
     );
 };
 
-export default Roots;
+export default Root;
